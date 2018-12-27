@@ -1,1 +1,22 @@
 
+
+.title {
+    text-align: center;
+    font-size: 4em;
+}
+
+.question-group > div {
+    margin: auto;
+    font-weight: 400;
+}
+
+.correct {
+    color: darkgreen;
+}
+
+.incorrect {
+    color: crimson;
+}
+h1.correct, h1.incorrect {
+    width:250px;
+}
